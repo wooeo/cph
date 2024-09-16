@@ -1,0 +1,6 @@
+Flask
+requests
+colorama
+python-dotenv
+huaweicloudsdkcore>=3.0.0
+huaweicloudsdkcph>=3.0.0
